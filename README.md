@@ -1,2 +1,2 @@
-# The-calculator
-calculator
+# Calculator
+a simplest calculator
